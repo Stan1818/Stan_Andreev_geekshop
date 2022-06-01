@@ -1,0 +1,78 @@
+[
+  {
+    "category": "Дом",
+    "name": "дом1",
+    "image": "product/product-1.jpg",
+    "short_desc": "дом большой 1",
+    "description": "Дом большой и красивый",
+    "price": 1900.0,
+    "quantity": 10
+  },
+    {
+    "category": "Дом",
+    "name": "дом2",
+    "image": "product/product-2.jpg",
+    "short_desc": "дом большой 2",
+    "description": "Дом большой и красивый",
+    "price": 1600.0,
+    "quantity": 10
+  },
+
+  {
+    "category": "Офис",
+    "name": "офис1",
+    "image": "product/product-3.jpg",
+    "short_desc": "офис большой 1",
+    "description": "офис большой и красивый",
+    "price": 12300.0,
+    "quantity": 10
+  },
+
+  {
+    "category": "Офис",
+    "name": "офис2",
+    "image": "product/product-4.jpg",
+    "short_desc": "офис большой 2",
+    "description": "офис большой и красивый",
+    "price": 2100.0,
+    "quantity": 10
+  },
+
+  {
+    "category": "Классика",
+    "name": "классика 1",
+    "image": "product/product-5.jpg",
+    "short_desc": "классика большой 1",
+    "description": "классика большой и красивый",
+    "price": 1560.0,
+    "quantity": 10
+  },
+  {
+    "category": "Классика",
+    "name": "классика 2",
+    "image": "product/product-6.jpg",
+    "short_desc": "классика большой 2",
+    "description": "классика большой и красивый",
+    "price": 15500.0,
+    "quantity": 10
+  },
+  {
+    "category": "Модерн",
+    "name": "модерн 1",
+    "image": "product/product-7.jpg",
+    "short_desc": "модерн большой 1",
+    "description": "модерн большой и красивый",
+    "price": 14500.0,
+    "quantity": 10
+  },
+  {
+    "category": "Модерн",
+    "name": "модерн 2",
+    "image": "product/product-8.jpg",
+    "short_desc": "модерн большой 2",
+    "description": "модерн большой и красивый",
+    "price": 1700.0,
+    "quantity": 10
+  }
+
+]
